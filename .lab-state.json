@@ -7,7 +7,12 @@
   "repo": "tinkerkid/lab",
   "mainRulesetId": 25828751,
   "mainRulesetName": "lab-main-protection",
-  "packageDeployerScaffolded": true,
-  "dataModelScaffolded": true,
-  "columnsScaffolded": true
+  "devEnvUrl": "https://wm-dev-2408.crm.dynamics.com",
+  "devEnvId": "402922a6-97a0-e2b9-be7c-a0a9918abf1c",
+  "devOrgId": "0706168a-98d0-f111-be87-6045bd06d939",
+  "devProfile": "dev",
+  "testEnvUrl": "https://wm-test-2408.crm.dynamics.com",
+  "testEnvId": "1d34b169-336c-ea4b-afef-3e8b5639950f",
+  "testOrgId": "b315ea0a-9dd0-f111-be85-6045bd05053d",
+  "testProfile": "test"
 }
