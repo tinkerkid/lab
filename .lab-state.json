@@ -6,5 +6,8 @@
   "publisherPrefix": "lab",
   "repo": "tinkerkid/lab",
   "mainRulesetId": 25828751,
-  "mainRulesetName": "lab-main-protection"
+  "mainRulesetName": "lab-main-protection",
+  "packageDeployerScaffolded": true,
+  "dataModelScaffolded": true,
+  "columnsScaffolded": true
 }
